@@ -22,7 +22,7 @@
 [![](https://komarev.com/ghpvc/?username=johnogunsola&icon=7&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jamesogunsola@gmail.com) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www-v2.sandbox.paypal.com/uk/cshelp/personal) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
