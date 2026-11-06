@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=johnogunsola&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical?border=true?theme=dark&quoteColor=#000000)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical?theme=dark&quoteColor=#000000)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=johnogunsola&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
