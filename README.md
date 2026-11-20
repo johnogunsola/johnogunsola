@@ -15,14 +15,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical?theme=dark&quoteColor=#000000)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=johnogunsola&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=johnogunsola&icon=7&color=3)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www-v2.sandbox.paypal.com/uk/cshelp/personal) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
