@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on creating the best AI agent<br>👯 I’m looking forward to collaborate on any cool ideas either for my website or new events.<br>🤝 I’m looking for help with better AI engineering or research knowledge<br>🌱 I’m currently learning JavaScript and Python<br>💬 Ask me about future plans
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/john-ogunsola-bb0b773bb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jogunsola15@gmail.com) 
